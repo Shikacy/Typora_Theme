@@ -1,4 +1,5 @@
 ## 修改说明
+
 Shika，一个出于个人需求的基于Drake-ayu-Typora-Theme修改的主题。
 
 1. 使用了Vue-Dark主题代码块光标颜色。
@@ -6,6 +7,10 @@ Shika，一个出于个人需求的基于Drake-ayu-Typora-Theme修改的主题�
 3. 使用了G2的标题计数功能。
 4. 加入了代码块上方的Mac图标，来源不确定。
 5. 其它。
+
+## 预览
+
+![预览](https://github.com/Shikacy/Typora_Theme/blob/main/%E9%A2%84%E8%A7%88.png)
 
 ## 想法
 
