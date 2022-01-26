@@ -1,5 +1,5 @@
 ## 修改说明
-SHika，一个出于个人需求的基于Drake-ayu-Typora-Theme修改的主题。
+Shika，一个出于个人需求的基于Drake-ayu-Typora-Theme修改的主题。
 
 1. 使用了Vue-Dark主题代码块光标颜色。
 2. 使用了Night-New代码块悬停效果代码。
